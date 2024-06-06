@@ -48,7 +48,6 @@ test_names = [
 
 t0 = timer()
 
-# Variable defined in Python
 ONEDNN_FUSION_LEVEL = ["2", "3"]
 NRUNS = 3
 
